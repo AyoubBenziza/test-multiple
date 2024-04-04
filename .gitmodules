@@ -1,0 +1,3 @@
+[submodule "css/css-animations"]
+	path = css/css-animations
+	url = https://github.com/AyoubBenziza/css-animations.git
